@@ -5,7 +5,7 @@
 <p>I'm a fledging developer, in the midst of a daunting but exciting career change from the medical field to the technology realm.</p>
 <p>So far, I'm enjoying the journey quite a bit and I hope that this quick Read Me can give you a little more information on what I'm about. </p>
 
-<h1> From Health to Tech... why? <h1>
+<h1> From Health to Tech... why?</h1>
   
 <p> Well I've always been interested in tech since the days of MySpace and FreeWebs (Remember Those?), my interest then further expanded during my teenage years where I experimented on "not-so-legal" tech. This came in the forms of Homebrew for the Nintendo DS and Nintendo Wii systems, and how the installation and use of these programs and apps enhanced my experience with these systems. I then became more interested in the interaction between hardware and software of these systems, though as life would have it, I went to college and got a degree in Cognitive Science. Now as a more experienced and mature Emmet, I'm revisiting my love for tech.</p>
 
