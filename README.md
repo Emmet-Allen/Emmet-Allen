@@ -11,7 +11,7 @@
 
 <h1> So, What Do You Know? </h1>
   
-<p> I feel pretty confident in HTML 5, CSS 3, and JavaScript(ES6) skills. I'm currently ranked on LeetCode for JavaScript as a 6th Kyu, something that I am quite proud of.
+<p> I feel pretty confident in HTML 5, CSS 3, and JavaScript(ES6) skills. I'm currently ranked on CodeWars for JavaScript as a 6th Kyu, something that I am quite proud of.
 I am also learning how to use the React framework to better mesh all these skills together. Though, the language that I am most focused on is C++ because I have been preparing for the NYU Tandon Bridge Program 2021 semester, and I have to say, I found a "love from necessity" for the language. </p>
 
 <h1> What Have You Made? </h1>
@@ -21,6 +21,10 @@ I am also learning how to use the React framework to better mesh all these skill
 <h1> Have You Worked On Any Open-Source Projects? </h1>
 
 <p> Why, yes I have! I contributed to a few projects such as OpenSourceMap-Index and the Letra App extension. The contributions were inputting JSON data to those projects, though those projects helped me understand the "In's and Out's" of Github, and Git. </p>
+
+<h1> Wow You Seem Like A Pretty Cool Dude. How Can I Find Out More About You? </h1>
+
+<p>Well there are a few ways to connect me, but please feel free to use my Linq (QR Scanning Busniess Card, it's the future) for my contact info</p>
   
   <h1> Stats! For Those Who Love Numbers! </h1>
   
@@ -30,9 +34,9 @@ I am also learning how to use the React framework to better mesh all these skill
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight&layout=compact" />
 </a>
+<a href="https://www.codewars.com/users/Mrskillful/badges/large">
+  <img align="center" src="https://www.codewars.com/users/Mrskillful/badges/large" />
 
-<h1> Wow You Seem Like A Pretty Cool Dude. How Can I Find Out More About You? </h1>
 
-<p>Well there are a few ways to connect me, but please feel free to use my Linq (QR Scanning Busniess Card, it's the future) for my contact info</p>
 
-<h1><strong> Thanks For Reading! Keep The Dream Alive </strong></h1>
+<h1 align="center"><strong> Thanks For Reading! Keep The Dream Alive </strong></h1>
