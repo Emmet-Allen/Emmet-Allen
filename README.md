@@ -1,4 +1,4 @@
-<h1>Welcome! 👋</h1>
+<h1 align="center">Welcome! 👋</h1>
 
 <p><strong>Hi, my name is Emmet. Nice to meet you!</strong><p>
 
@@ -24,9 +24,9 @@ I am also learning how to use the React framework to better mesh all these skill
 
 <h2> Wow You Seem Like A Pretty Cool Dude. How Can I Find Out More About You? </h2>
 
-<p>Well there are a few ways to connect me, but please feel free to use my Linq (QR Scanning Busniess Card, it's the future) for my contact info.</p>
+<p>Well there are a few ways to connect me, but please feel free to use my Linq <a>https://linqapp.com/emmet</a> (QR Scanning Busniess Card, it's the future) for my contact info.</p>
   
-  <h1> Stats! For Those Who Love Numbers! </h1>
+  <h2> Stats! For Those Who Love Numbers! </h2>
   
   <a href="https://github.com/Emmet-Allen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true" />
