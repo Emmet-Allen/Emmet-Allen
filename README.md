@@ -1,5 +1,5 @@
 ![Emmet's github stats](https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight)
 
 ### Hi there 👋
 
