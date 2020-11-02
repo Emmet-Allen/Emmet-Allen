@@ -24,7 +24,7 @@ I am also learning how to use the React framework to better mesh all these skill
 
 <h2> Wow You Seem Like A Pretty Cool Dude. How Can I Find Out More About You? </h2>
 
-<p>Well there are a few ways to connect me, but please feel free to use my Linq <a>https://linqapp.com/emmet</a> (QR Scanning Busniess Card, it's the future) for my contact info.</p>
+<p>Well there are a few ways to connect me, but please feel free to use my <a href="https://linqapp.com/emmet">Linq</a> (QR Scanning Busniess Card, it's the future) for my contact info.</p>
   
   <h2> Stats! For Those Who Love Numbers! </h2>
   
