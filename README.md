@@ -1,11 +1,13 @@
-![Emmet's github stats](https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight&layout=compact)
+
+
+
+## Som
 
 <a href="https://github.com/Emmet-Allen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight" />
 </a>
 
 ### Hi there 👋
