@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**Emmet-Allen/Emmet-Allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Emmet's github stats](https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen)](https://github.com/Emmet-Allen/github-readme-stats)
+
+(https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
