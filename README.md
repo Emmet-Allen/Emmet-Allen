@@ -1,16 +1,20 @@
 
 
 
-## Som
+## Stats for those who love numbers!
 
 <a href="https://github.com/Emmet-Allen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight&layout=compact" />
 </a>
 
-### Hi there 👋
+<h1>Welcome! 👋</h1>
+
+<p>Hi, my name is Emmet. Nice to meet you!
+I'm a fledging developer, in the midst of a daunting but exciting career change from the medical field to the technology realm. 
+So far, I'm enjoying the journey quite a bit and I hope that this quick Read Me can give you a little more information on what I'm about. </p>
 
 Here are some ideas to get you started:
 
