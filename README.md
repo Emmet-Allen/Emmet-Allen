@@ -37,4 +37,4 @@ I am also learning how to use the React framework to better mesh all these skill
 <a href="https://www.codewars.com/users/Mrskillful/badges/large">
   <img align="center" src="https://www.codewars.com/users/Mrskillful/badges/large" />
 
-<h1 align="center"><strong> Thanks For Reading! Keep The Dream Alive </strong></h1>
+<h1 align="center"><strong> Thanks For Reading! Keep The Dream Alive! </strong></h1>
