@@ -12,7 +12,7 @@
 
 <h1>Welcome! 👋</h1>
 
-<h2>Hi, my name is Emmet. Nice to meet you!</h2>
+<p><strong>Hi, my name is Emmet. Nice to meet you!</strong><p>
 
 <p>I'm a fledging developer, in the midst of a daunting but exciting career change from the medical field to the technology realm. 
 So far, I'm enjoying the journey quite a bit and I hope that this quick Read Me can give you a little more information on what I'm about. </p>
