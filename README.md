@@ -6,9 +6,8 @@
 
 <h2>Languages and Frameworks<h2>
 
-<p>C++, HTML5, CSS3, Javascript, SCSS, React<p> 
+<p>C++, HTML5, CSS3, Javascript, SCSS, React</p> 
 
-  
   <h2> Stats! For Those Who Love Numbers! </h2>
   
   <a href="https://github.com/Emmet-Allen/github-readme-stats">
