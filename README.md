@@ -19,4 +19,4 @@
 <a href="https://www.codewars.com/users/Mrskillful/badges/large">
   <img align="center" src="https://www.codewars.com/users/Mrskillful/badges/large" />
 
-<h1 align="center"><strong> Keep The Dream Alive! </strong></h1>
+<h1 align="center">Thanks For Visiting</h1>
