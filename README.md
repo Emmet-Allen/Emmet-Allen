@@ -1,14 +1,14 @@
 <h1 align="center">Welcome! 👋</h1>
 
-<p><strong>Hi, my name is Emmet. Nice to meet you!</strong><p>
+<p align="center"><strong>Hi, my name is Emmet. Nice to meet you!</strong><p>
 
-<p>I'm a fledging developer,in the midst of a career change.I'm Currently enrolled in the NYU Tandon Bridge Program.</p>
+<p align="center">I'm a fledging developer,in the midst of a career change.I'm Currently enrolled in the NYU Tandon Bridge Program.</p>
 
-<h2>Languages and Frameworks<h2>
+<h2 align="center">Languages and Frameworks</h2>
 
-<p>C++, HTML5, CSS3, Javascript, SCSS, React</p> 
+<p align="center">C++, HTML5, CSS3, Javascript, SCSS, React</p> 
 
-  <h2> Stats! For Those Who Love Numbers! </h2>
+  <h2 align="center"> Stats! For Those Who Love Numbers! </h2>
   
   <a href="https://github.com/Emmet-Allen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmet-Allen&count_private=true&theme=tokyonight&show_icons=true" />
