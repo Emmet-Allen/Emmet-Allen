@@ -2,7 +2,7 @@
 
 <p align="center"><strong>Hi, my name is Emmet. Nice to meet you.</strong><p>
 
-<p align="center">I'm a fledging developer, in the midst of a career change. I'm Currently enrolled in the NYU Tandon Bridge Program.</p>
+<p align="center">I'm a fledging developer, in the midst of a career change. I'm currently enrolled in Pace Universities Master's in Computer Science Program.</p>
 
 <h2 align="center">Languages and Frameworks</h2>
 
