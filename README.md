@@ -6,7 +6,7 @@
 
 <h2 align="center">Languages and Frameworks</h2>
 
-<p align="center">C++, HTML5, CSS3, Javascript, SCSS, React</p> 
+<p align="center">C++, Latex, HTML5, CSS3, Javascript, SCSS, React</p> 
 
   <h2 align="center"> Stats: For Those Who Love Numbers! </h2>
   
