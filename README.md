@@ -8,7 +8,7 @@
 
 <p align="center">HTML5, CSS3, Javascript, TypeScript, React, Node, SCSS, C++, Java, Lua, SQL, BASH</p> 
 
-  <h2 align="center"> Stats: For Those Who Love Numbers! </h2>
+  <h2 align="center"> See what I've been working with here.</h2>
   
 <div align="center">  
 <a href="https://github.com/anuraghazra/github-readme-stats">
