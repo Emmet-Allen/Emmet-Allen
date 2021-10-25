@@ -2,11 +2,11 @@
 
 <p align="center"><strong>Hi, my name is Emmet. Nice to meet you.</strong><p>
 
-<p align="center">I'm a fledging developer, in the midst of a career change. I'm currently enrolled in Pace Universities Master's in Computer Science Program.</p>
+<p align="center">I'm a Software Developer currently enrolled in Pace Universities Master's in Computer Science Program.</p>
 
 <h2 align="center">Languages and Frameworks</h2>
 
-<p align="center">C++, Latex, HTML5, CSS3, Javascript, TypeScript, SCSS, React</p> 
+<p align="center">HTML5, CSS3, Javascript, TypeScript, React, Node, SCSS, C++, Java, Lua, SQL, BASH</p> 
 
   <h2 align="center"> Stats: For Those Who Love Numbers! </h2>
   
