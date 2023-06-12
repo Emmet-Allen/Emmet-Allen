@@ -3,7 +3,7 @@
 <p align="center"><strong>Hi, my name is Emmet. Nice to meet you.</strong><p>
 
 <p align="center">I'm a Software Developer Consultant at Thoughtworks and am currently enrolled in Pace Universities Master's in Computer Science Program.</p>
-<p align="center">I like to profess to myself as a man of many talents, but if I can't do it, doesn't mean I won't learn.</p>
+<p align="center">Neighborhood Problem Solver</p>
 
 <h2 align="center">Languages and Frameworks</h2>
 
