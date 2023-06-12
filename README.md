@@ -7,14 +7,7 @@
 
 <h2 align="center">Languages and Frameworks</h2>
 
-<p align="center">HTML5, CSS3, Javascript, TypeScript, React, React-Native, Node, SCSS, C++, Java, Lua, SQL, BASH</p> 
-
-  <h2 align="center"> See what I've been working with here</h2>
-  
-<div align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmet-Allen&theme=tokyonight&layout=compact" />
-</a>
- </div>
+<p align="center">At this point, to many too list between work and school. I've been working with: .Net Core, MSSQL, Azure, React, SvelteKit, C99, Numpy and Jupyter Notebooks</p>
+<p align="center"> When I'm a bit free-er, I would like to dive into either Unity or (if it ever comes out to public) S& Box Engine. Or maybe learn Go cause I like C or Kotlin cause I hate Java... eh I'll figure it out</p>
 
 <h1 align="center">Thanks For Visiting</h1>
